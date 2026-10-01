@@ -1,0 +1,7 @@
+
+
+{
+  "crons": [
+    { "path": "/api/cron/daily-rollup?date=yesterday", "schedule": "0 21 * * *" }
+  ]
+}
